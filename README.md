@@ -1,2 +1,2 @@
-# Box-_model
+# Box_model
 Aprendendo sobre box model do CSS criando uma pintura de Rothko. Atividade FreeCodeCamp
